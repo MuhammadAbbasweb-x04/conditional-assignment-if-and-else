@@ -147,7 +147,7 @@
 // if( time < 12 ){
 // alert("Good morning ");
 // } else{
-//     alert("Good afternoon");
+//alert("Good afternoon");
 // }
 
 // Q15
@@ -162,4 +162,21 @@
 
 // Q16
 // Answer
+// let answer = prompt("Do you want to play a game? (yes/no)");
 
+// if (answer.toLowerCase() === "yes") {
+//   alert("Let's play!");
+// } else {
+//   alert("Maybe next time!");
+// }
+
+// Q17
+// Answer
+
+var color = prompt( " enter your favrate color " );
+var nicecolor= blue;
+if( color <= blue ){
+console.log("Cool choice!")
+} else {
+console.log("Interesting color!");
+}
