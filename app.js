@@ -1,8 +1,8 @@
 
 
-// Q1 Ask the user for their age. If the age is 18 or more, show an alert:
-
+// Q1 
 // Answer
+
 // var age = 18;
 // if (age >=18 && age <=25){
 // alert("Your are an adult");
@@ -10,9 +10,9 @@
 //     alert("Your are a minor");
 // }
 
-// Q2 Ask the user to enter a number. If it's positive, log:
-
+// Q2 
 // Answer
+
 // var enternumber=4;
 // if( enternumber>= 4 && enternumber<=10 ){
 // console.log("Positive number");
@@ -20,9 +20,9 @@
 //     console.log(" Not Positive");
 // }
 
-// Q3 Ask the user for a number. If it’s even, alert:
-
+// Q3 
 // Answer
+
 // var enternumber= 2;
 // if ( enternumber >= 2 && enternumber <= 4){
 //     alert(" Even number ");
@@ -31,9 +31,9 @@
 // }
 // 
 
-// Q4 Ask for a username. If the username is admin:
-
+// Q4 
 // Answer
+
 // var admin = prompt("Enter your name");
 // if(admin == "admin"){
 //     alert("Welcome admin!");
@@ -42,9 +42,9 @@
 //     alert("Access denied.");
 // }
 
-// Q5 Ask for two numbers. If they are equal, log
-
+// Q5 
 // Answer
+
 // var num1 =prompt ( " Enter first number" );
 // var num2 =prompt( " Enter second number") ;
 // if(num1 == num2){
@@ -53,3 +53,103 @@
 //    console.log("The numbers are different"); 
 // }
 
+// Q6 
+// Answer
+
+// var num1 = prompt(" enter first number");
+// var num2 = prompt(" enter second number  ");
+// if( num1 > num2 ){
+// alert("First is larger");
+// }else if( num1 < num2 ){
+// alert("Second is larger ");
+// }
+
+// Q7 
+// Answer
+
+//  var enternmber =+prompt ("enter number");
+//  if( enternmber >= 50 && enternmber <= 100){
+// alert("Too big!");
+//  } else{
+// alert( "Within range");
+// }
+
+// Q8 
+// Answer
+
+// var score = +prompt ("enter number");
+// var num1 = 50;
+// if (score > num1){
+//     console.log(" You passed! ")
+// }else{
+//     console.log(" You failed! ");
+// }
+
+// Q9  
+// Answer
+
+// var temperature = +prompt(  " enter temperature " );
+// var num= 30;
+// if( temperature > num ){
+//     alert(" It's to hot ");
+// }else{
+//     alert(" It's not hot ");
+// }
+
+// Q10 
+// Answer
+
+// var num =prompt ("enter number");
+// if (num <= 0 || num == 0 ){
+//    alert("Zero");
+// } else{
+//     alert("Not Zero");
+// }
+
+// Q11 
+// Answer
+
+// var age = prompt(  " enter your age" );
+// if( age >= 30 && age <= 60 ){
+// console.log("You are a senior citizen");
+// } else{
+//     console.log("You are not a senior");
+// }
+
+
+// Q12 
+// Answer
+
+// var username= prompt (" enter your name");
+// if( username == "Alice"  ){
+// alert( " Hi Alice!" );
+// }else{
+//     alert("Your not Alice!");
+// }
+
+
+// Q13 
+// Answer
+
+// var password = prompt(" enter your password ");
+// if( password <= 12345 ){
+//     console.log(" Correct password ");
+// }else{
+//     console.log(" Wrong passwrod");
+// }
+
+
+// Q14
+// Answer
+
+// var time = prompt (" enter time ");
+// var hour = 12;
+// if( time < 12 ){
+// alert("Good morning ");
+// } else{
+//     alert("Good afternoon");
+// }
+
+// Q15
+// Answer
+var enternumber = prompt(" enter a number");
