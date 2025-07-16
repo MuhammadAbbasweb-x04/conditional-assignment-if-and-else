@@ -152,4 +152,14 @@
 
 // Q15
 // Answer
-var enternumber = prompt(" enter a number");
+// var enternumber = prompt(" enter a number");
+// if( enternumber %5 == 25  ){
+// alert("Divisible by 5");
+// } else{
+//     alert(" Not divisible by 5 ");
+// }
+
+
+// Q16
+// Answer
+
