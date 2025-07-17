@@ -162,21 +162,40 @@
 
 // Q16
 // Answer
-// let answer = prompt("Do you want to play a game? (yes/no)");
-
-// if (answer.toLowerCase() === "yes") {
-//   alert("Let's play!");
-// } else {
-//   alert("Maybe next time!");
+// var game = prompt ("want to play a game (yes'no)" );
+// if(game ===  "yes"){
+//     alert(" Let's play a game ");
+// } else{
+//     alert("Maybe a next time");
 // }
 
 // Q17
 // Answer
+// var color = prompt("enter your favourite color");
+// if( color ===  "blue" ){
+//       console.log(" Cool choice! ");
+// } else{
+//       console.log( " Interesting color! " );
+// }
 
-var color = prompt( " enter your favrate color " );
-var nicecolor= blue;
-if( color <= blue ){
-console.log("Cool choice!")
-} else {
-console.log("Interesting color!");
-}
+
+// Q18
+// Answer
+// var selectday=prompt( " enter your day " );
+// if( selectday === "Sunday" ){
+// alert("Weekend!");
+// } else{
+//     alert(" Weekday! ");
+// }
+
+// Q19
+// Answer
+// var fruits = prompt(" enter the fruit name ");
+// if ( fruits ===  "apple/banana"  ){
+// alert("We have that");
+// } else{
+//   alert(" Out of stock ");  
+// }
+
+// Q20
+// Answer
