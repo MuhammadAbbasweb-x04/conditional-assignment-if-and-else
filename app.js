@@ -1,4 +1,4 @@
-
+// easy  JavaScript Conditional Logic Practice the next 20 quetion and answers
 
 // Q1 
 // Answer
@@ -199,3 +199,34 @@
 
 // Q20
 // Answer
+// var game = prompt (" Can i start the game ");
+// if ( game === "start" ){
+// alert("Game started!");
+// } else{
+//     alert (" Waiting for input.....");
+// }
+
+
+
+// Advanced JavaScript Conditional Logic Practice the next 15 quetion  and answers
+
+
+// Q1
+// Answer
+// var  marks = parseInt(prompt ("enter your marks"));
+// if( 80 < marks  ){
+// console.log(" Distinction ");
+// }else if(  50 <=  marks &&  80 >= marks ){
+// console.log("Pass");
+
+// }
+// else if(marks<50){
+//     console.log("Fail");
+// }
+// else{
+//     console.log("Invalid Marks");
+// }
+
+
+
+
