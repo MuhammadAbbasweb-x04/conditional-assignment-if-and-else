@@ -256,3 +256,27 @@
 
 // Q4
 // Answer
+// var eligible = prompt ( "check the eligible contest " )
+// var country = prompt ( "  enter your country name " );
+// var age = 25;
+// if( age >= 18 && age <= 30 ){
+//     console.log(" your age is eligible for this  contest ");
+// }  else if ( country === "pakistan/india" ){
+//     console.log("Must be from Pakistan or India");
+
+// }else{
+// console.log("Must not be banned");
+// }
+
+// Q5
+// Answer
+// var plan = prompt ( " enter your plan " );
+// if ( plan === "loggedin" ){
+// console.log("Welcome Premium User");
+// } else if ( plan === "free"  ){
+// console.log("Welcome Free User");
+// } else if ( plan === "mabbasmshahi2003@gmail.com" ){
+// console.log("Please log in to continue")
+// } else{
+//    console.log("Invalid subscription"); 
+// }
