@@ -228,5 +228,31 @@
 // }
 
 
+// Q2
+// Answer
+// var customer = prompt( " enter your age " );
+// var discount= 60;
+// if( discount > 50 && discount < 70){
+//     console.log( " Senior Premium Discount " );
+// } else if (discount < 80  ){
+// console.log("Senior Discount");
+// }else if(discount > 40 ){
+//     console.log(" Premium Discount  ")
+// }
+//  else {
+//     console.log(" No discount ");
+// }
 
+// Q3
+// Answer
+// var email= prompt( " enter your email " );
+// if( email === "mabbasmshahi2003@gmail.com"  ){
+// console.log( "Access granted" );
+// } else if ( email === "mabbasmshahi2004@gmail.com" ){
+//     console.log("Please verify your email");
+// } else{
+//     console.log( " Please log in " );
+// }
 
+// Q4
+// Answer
