@@ -308,3 +308,19 @@
 // } else  if (  hours !== 0 ) {
 // console.log("No work");
 // }
+
+// Q8
+// Answer
+// var gender = prompt ( " enter your age " );
+// var TeenMale = 16;
+// var TeenFemale = 17;
+// if( age > 15 && age < 19 ){
+// console.log("Teen Male");
+// } else if ( age < 15 && age < 19 ){
+// console.log("Teen Female");
+// } else if(age < 20){
+// console.log("Adult")
+// }
+
+// Q9
+// Answer
