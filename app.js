@@ -280,3 +280,31 @@
 // } else{
 //    console.log("Invalid subscription"); 
 // }
+
+// Q6
+// Answer
+// var product= prompt ( "enter your Product price " );
+// var price=1000;
+// var discount= 700;
+// if ( price > 900 && price < 1200   ){
+// console.log("Buy now with discount");
+// } else if (  discount > 500 && discount < 1200  ){
+// console.log("Buy now");
+// } else {
+//     console.log("Out of stock");
+// }
+
+
+// Q7 
+// Answer
+// var workcheck= prompt( " check your work hour " );
+// var hours = 48;
+// if( hours > 40 ){
+// console.log( "Overtime" );
+// } else if (  hours > 0 ){
+// console.log("Weekend work");
+// } else if (  hours > 40  ){
+// console.log("Regular hours");
+// } else  if (  hours !== 0 ) {
+// console.log("No work");
+// }
