@@ -245,15 +245,15 @@
 
 // Q3
 // Answer
-// var email= prompt( " enter your email " );
-// if( email === "mabbasmshahi2003@gmail.com"  ){
-// console.log( "Access granted" );
-// } else if ( email === "mabbasmshahi2004@gmail.com" ){
+// var userLogin = prompt("Login or Not, type (Yes.No)").toLowerCase()
+// var emailVerified = prompt("Is Email Verfied, type (Yes/No)").toLowerCase()
+// if(userLogin === "yes" && emailVerified === "yes"){
+//     console.log("Access granted");
+// } else if(userLogin === "yes" && emailVerified === "no"){
 //     console.log("Please verify your email");
-// } else{
-//     console.log( " Please log in " );
+// } else {
+//     console.log("Please log in");
 // }
-
 // Q4
 // Answer
 // var eligible = prompt ( "check the eligible contest " )
