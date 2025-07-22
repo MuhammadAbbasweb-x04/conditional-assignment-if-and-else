@@ -324,3 +324,31 @@
 
 // Q9
 // Answer
+// var temperature =parseInt(prompt("Enter your temprature"));
+// var humidity = parseInt(prompt("Enter your humidity"));
+// if(temperature>=40 && humidity>=60){
+//     console.log("Heatwave Alert");
+// }
+// else if(temperature>=40 && humidity<60){
+//     console.log("Hot and Dry");
+// }
+// else if(temperature<=20){
+//     console.log("Cool Weather");
+// }
+// else{
+//     console.log("Moderate");
+// }
+
+// Q10
+// Answer
+var excellent=parseInt(prompt ( " enter your score " ) );
+var good= parseInt(prompt ( " enter your score " ));
+if(  excellent >= 90 && good <= 100  ){
+console.log("Excellent");
+} else if ( good >= 70 && excellent <= 89 ){
+console.log("Good");
+} else if (excellent >= 50 && good <=69){
+    console.log("Average");
+} else if ( "  " ){
+
+}
