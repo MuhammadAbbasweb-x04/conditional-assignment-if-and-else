@@ -357,3 +357,6 @@
 //  console.log("Invalid Score");   
 // }
 
+var loggedin= prompt ( "Must be logged in  ( yes/no )" );
+var enrolled = prompt ( " Must be enrolled ");
+if ( loggedin === "yes" && enrolled === " yes " ){}
