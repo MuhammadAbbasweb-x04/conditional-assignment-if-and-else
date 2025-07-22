@@ -341,14 +341,19 @@
 
 // Q10
 // Answer
-var excellent=parseInt(prompt ( " enter your score " ) );
-var good= parseInt(prompt ( " enter your score " ));
-if(  excellent >= 90 && good <= 100  ){
-console.log("Excellent");
-} else if ( good >= 70 && excellent <= 89 ){
-console.log("Good");
-} else if (excellent >= 50 && good <=69){
-    console.log("Average");
-} else if ( "  " ){
+// var excellent=parseInt(prompt ( " enter your score " ) );
+// var good= parseInt(prompt ( " enter your score " ));
+// if(  excellent >= 90 && good <= 100  ){
+// console.log("Excellent");
+// } else if ( good >= 70 && excellent <= 89 ){
+// console.log("Good");
+// } else if (excellent >= 50 && good <=69){
+//     console.log("Average");
+// } else if (  excellent >= 30 && good <= 49 ){
+// console.log("Poor");
+// } else if ( excellent <=29 ){
+// console.log( " Fail" );
+// } else {
+//  console.log("Invalid Score");   
+// }
 
-}
