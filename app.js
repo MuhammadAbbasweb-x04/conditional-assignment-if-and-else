@@ -357,6 +357,32 @@
 //  console.log("Invalid Score");   
 // }
 
-var loggedin= prompt ( "Must be logged in  ( yes/no )" );
-var enrolled = prompt ( " Must be enrolled ");
-if ( loggedin === "yes" && enrolled === " yes " ){}
+// Q11
+// Answer
+// var course=prompt( "enter your course"  ).toLowerCase()
+// if(  course === "login" && course === "login" ){
+//     console.log("Access granted",);
+// } else if( course === "no" && course === "no"  ){
+// console.log("Enroll in course first",);
+// } else if ( course === "loggedin" && course === "loggedin" ){
+// console.log("User is banned");
+// } else{
+//     console.log("Please log in");
+// }
+
+// Q12
+// Answer
+// var speed=parseInt(prompt( "speed limet" ));
+// if( speed >= 110 && speed <= 120 ){
+// console.log("License suspended");
+// } else if ( speed >= 90 && speed <= 100 ){
+// console.log("Warning");
+// } else if ( speed >= 70 && speed <= 80 ){
+//     console.log("Normal driving");
+// } else{
+//     console.log("Driving without license");
+// }
+
+// Q13
+// Answer
+var order =prompt( "  " );
