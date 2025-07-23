@@ -384,5 +384,17 @@
 // }
 
 // Q13
-// Answer
-var order =prompt( "  " );
+// // Answer
+// var order =prompt( " what did you order Please mention it here " ).toLocaleLowerCase()
+// if( order === "shipped" && order === "shipped" ){
+// console.log("Order on the way");
+// } else if ( order === "not'shipped" && order === "not'shipped" ){
+//     console.log("Preparing your order");
+// } else if ( order === "pending" && order === "pending" ){
+// console.log("Awaiting payment");
+// } else{
+//     console.log("Payment failed");
+// }
+
+// Q14
+// // Answer
