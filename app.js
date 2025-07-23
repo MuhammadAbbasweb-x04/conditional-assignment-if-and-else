@@ -408,3 +408,15 @@
 // } else {
 //     console.log("battery ok ");
 // }
+
+// Q15
+// // Answer
+// var check= prompt("browser and device compatibility Check").toLocaleLowerCase()
+// if ( check === "desktop" && check === "desktop"){
+// console.log("full features enabled");
+// } else if ( check === "mobile" && check === "mobile" ){
+// console.log("limited mobile features");
+// } else{
+//     console.log("please switch to chrome");
+// }
+
