@@ -398,3 +398,13 @@
 
 // Q14
 // // Answer
+// var battery= parseInt(prompt( "check your battery level" ));
+// if( battery >=95 && battery <=100 ){
+//     console.log("fully charged"); 
+// } else if( battery >=60 && battery <=70  ){
+// console.log("charging...");
+// } else if ( battery >=10 && battery <=20 ){
+// console.log(" low battery ");
+// } else {
+//     console.log("battery ok ");
+// }
